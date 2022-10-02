@@ -38,8 +38,7 @@ http://245671.proxy.nscc-gz.cn:8888/?text=旅行者副本零掉落，旅行者�
 http://245671.proxy.nscc-gz.cn:8888/?text=是不是要我揍你一顿才开心啊！！！&speaker=戴因斯雷布
 http://245671.proxy.nscc-gz.cn:8888/?text=小朋友别戳了&speaker=八重神子
 http://245671.proxy.nscc-gz.cn:8888/?text=怎么会有你这么无聊的人啊！！！&speaker=雷电将军
-
-
+http://245671.proxy.nscc-gz.cn:8888/?text=不要再戳了！！！，我不是你的老婆！！！&speaker=神里绫华
 
 
 # VITS 原神语音合成V1
