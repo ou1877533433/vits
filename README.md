@@ -31,7 +31,12 @@ Query String 参数：
 
 示例：[http://233366.proxy.nscc-gz.cn:8888/?text=你好&speaker=枫原万叶](http://245671.proxy.nscc-gz.cn:8888/?text=你好speaker=枫原万叶)
 
-http://245671.proxy.nscc-gz.cn:8888/?text=道歉时先拔出来啊混蛋&speaker=七七
+http://245671.proxy.nscc-gz.cn:8888/?text=你戳谁呢！你戳谁呢！！！&speaker=七七
+http://245671.proxy.nscc-gz.cn:8888/?text=不要再戳了！我真的要被你气死了！！！！&speaker=心海
+http://245671.proxy.nscc-gz.cn:8888/?text=讨厌死了！&speaker=可莉
+http://245671.proxy.nscc-gz.cn:8888/?text=旅行者副本零掉落，旅行者深渊打不过，旅行者抽卡全保底，旅行者小保底必歪&speaker=散兵
+http://245671.proxy.nscc-gz.cn:8888/?text=是不是要柚恩揍你一顿才开心啊！！！&speaker=戴因斯雷布
+http://245671.proxy.nscc-gz.cn:8888/?text=小朋友别戳了&speaker=八重神子
 
 
 
