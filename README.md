@@ -31,6 +31,9 @@ Query String 参数：
 
 示例：[http://233366.proxy.nscc-gz.cn:8888/?text=你好&speaker=枫原万叶](http://245671.proxy.nscc-gz.cn:8888/?text=你好speaker=枫原万叶)
 
+http://245671.proxy.nscc-gz.cn:8888/?text=道歉时先拔出来啊混蛋&speaker=七七
+
+
 
 
 # VITS 原神语音合成V1
